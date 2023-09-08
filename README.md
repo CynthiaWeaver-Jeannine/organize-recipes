@@ -1,6 +1,6 @@
 # organize-recipes
 
-<p>Recipe Tracking App. A user can add a new recipe, display a list of recipes, and delete a recipe.</p>
+Recipe Tracking App. A user can add a new recipe, display a list of recipes, and delete a recipe.
 ![image](https://github.com/CynthiaWeaver-Jeannine/organize-recipes/assets/132491873/2de7a627-18e6-43c4-8cbf-44c3a7d39df9)
 <p>This project is an assignment in the Thinkful Engineering Immersion Bootcamp program.</p>
 
